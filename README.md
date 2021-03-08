@@ -18,13 +18,13 @@ Using images and examples of your code, compare the stock performance between 20
 ![All_Stocks_Performance_2018](https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2018.png)
 
 <p align="center">
-  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png">
-  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png">
+  <img width="460" height="300" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png">
+  <img width="460" height="300" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png">
-  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png">
+  <img width="460" height="300" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png">
+  <img width="460" height="300" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png">
 </p>
 
 ### Summary
