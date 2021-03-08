@@ -23,8 +23,8 @@ Using images and examples of your code, compare the stock performance between 20
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png">
-  <img width="460" height="300" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png">
+  <img width="230" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png">
+  <img width="230" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png">
 </p>
 
 ### Summary
