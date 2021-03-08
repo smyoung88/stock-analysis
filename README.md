@@ -13,14 +13,17 @@ Analysis was done to include the entire stock market over the last few years
 ### Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-![All_Stocks_Performance_2017](https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2017.png)
+<p align="center">
+  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2017.png" alt="TEST" title="2017 Stock Analysis">
+  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2018.png" alt="TEST" title="2018 Stock Analysis">
+</p>
 
-![All_Stocks_Performance_2018](https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2018.png)
 
 <p align="center">
   <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png" title="Original Script">
   <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" title="Refactored Script">
 </p>
+
 
 <p align="center">
   <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png" title="Original Script">
