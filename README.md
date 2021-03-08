@@ -14,7 +14,8 @@ Analysis was done to include the entire stock market over the last few years
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 <p align="center">
-  **Alternative Energy Stock Performance in 2017 and 2018**
+  Alternative Energy Stock Performance in 2017 and 2018
+ <br>
   <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2017.png" title="2017 Stock Analysis">
   <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2018.png" title="2018 Stock Analysis">
 </p>
@@ -22,7 +23,8 @@ Using images and examples of your code, compare the stock performance between 20
 <br>
 
 <p align="center">
-  **Script Runtime on 2017 Analysis for Original & Refactored Code**
+  Script Runtime on 2017 Analysis for Original & Refactored Code
+ <br>
   <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png" title="Original Script">
   <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" title="Refactored Script">
 </p>
@@ -30,7 +32,8 @@ Using images and examples of your code, compare the stock performance between 20
 <br>
 
 <p align="center">
-  **Script Runtime on 2018 Analysis for Original & Refactored Code**
+  Script Runtime on 2018 Analysis for Original & Refactored Code
+ <br>
   <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png" title="Original Script">
   <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" title="Refactored Script">
 </p>
