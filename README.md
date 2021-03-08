@@ -25,8 +25,8 @@ Using images and examples of your code, compare the stock performance between 20
 <p align="center">
   Script Runtime on 2017 Analysis for Original & Refactored Code
  <br>
-  <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png" title="Original Script">
-  <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" title="Refactored Script">
+  <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png" title="Original Code">
+  <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" title="Refactored Code">
 </p>
 
 <br>
@@ -34,8 +34,8 @@ Using images and examples of your code, compare the stock performance between 20
 <p align="center">
   Script Runtime on 2018 Analysis for Original & Refactored Code
  <br>
-  <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png" title="Original Script">
-  <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" title="Refactored Script">
+  <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png" title="Original Code">
+  <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" title="Refactored Code">
 </p>
 
 ### Summary
