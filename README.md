@@ -2,23 +2,32 @@
 In this project, analysis was performed on various alternative energy stocks for Steve's parents.
 
 ## Overview of Project
-Steve just graduated from college in finance and his parents were going to be his first clients. A workbook was put together to analyze an entire dataset of stocks at the click of a button which was initially very helpful. To further his research, the dataset was expanded to include the entire stock market over the last few years. In this project, the initial workbook's code was refactored to run analysis on a wider data set in a more timely manner.
+Steve just graduated from college in finance and his parents are his first clients. A workbook was put together to analyze an entire dataset of stocks at the click of a button which was very helpful. To further his research, the initial dataset was expanded to include the entire stock market over the last few years. In this project, the initial workbook's code was refactored to run analysis on a wider data set more efficiently.
 
 ### Purpose
-The purpose of this analysis is to refactor the Module 2 solution code to loop through all the data given one time in order to collect the same information that was collected in the module. Once refactored, a determination must be made whether or not refactoring the code succesffully made the VBA scrip run faster. This written analysis explains the findings
+The purpose of this analysis is to refactor initial solution code to loop through all the data one time in order to collect the same information that was collected with the original code. Once refactored, a determination is made whether or not refactoring the code succesffully made the VBA scrip run faster. This written analysis explains the findings and results of stock performance from 2017 and 2018.
 
-## Analysis and Challenges
+## Results and Summary
 Analysis was done to include the entire stock market over the last few years
 
-## Results
+### Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-![Theater_Outcomes_vs_Launch](https://github.com/smyoung88/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![All_Stocks_Performance_2017](https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2017.png)
+
+![All_Stocks_Performance_2018](https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2018.png)
+
 <p align="center">
-  <img src="https://github.com/smyoung88/kickstarter-analysis/blob/main/Resources/Theater_Kickstarters_by_Year.png">
+  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png">
+  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png">
 </p>
 
-## Summary
+<p align="center">
+  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png">
+  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png">
+</p>
+
+### Summary
 
 **What are the advantages or disadvantages of refactoring code?**
 
