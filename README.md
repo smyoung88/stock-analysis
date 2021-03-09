@@ -16,8 +16,8 @@ Using images and examples of your code, compare the stock performance between 20
 <p align="center">
   <b>Alternative Energy Stock Performance in 2017 and 2018</b>
  <br>
-  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2017.png" title="2017 Stock Analysis">
-  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2018.png" title="2018 Stock Analysis">
+  <img width="400" height="402" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2017.png" title="2017 Stock Analysis">
+  <img width="400" height="402" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2018.png" title="2018 Stock Analysis">
 </p>
 
 <br>
