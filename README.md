@@ -49,15 +49,15 @@ The refactored code decreased the execution times of the 2017 and 2018 analysis 
 <p align="center">
   <b>Original Script</b>
  <br>
-  <img width="400" height="402" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/Original_Script.png" title="Original Script">
+  <img width="500" height="450" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/Original_Script.PNG" title="Original Script">
 </p>
 
 Refactoring the script allowed arrays to be setup for the data of interest so that after the starting price and ending price for a given stock ticker was cycled through the code, it would begin gathering data for the next one. Since the stock tickers are in alphabetical order, the code would only require one pass through each row in the dataset to gather all desired data. The refactored code that made this possible is below:
 
 <p align="center">
-  <b>Original Script</b>
+  <b>Refactored Script</b>
  <br>
-  <img width="400" height="402" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/Refactored_Script.png" title="Refactored Script">
+  <img width="500" height="450" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/Refactored_Script.png" title="Refactored Script">
 </p>
 
 ### Summary
