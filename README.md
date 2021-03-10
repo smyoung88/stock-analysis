@@ -57,7 +57,7 @@ Refactoring the script allowed arrays to be setup for the data of interest so th
 <p align="center">
   <b>Refactored Script</b>
  <br>
-  <img src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/Refactored_Script.png" title="Refactored Script">
+  <img width="600" height="500" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/Refactored_Script.png" title="Refactored Script">
 </p>
 
 ### Summary
