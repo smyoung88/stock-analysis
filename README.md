@@ -11,7 +11,9 @@ The purpose of this analysis is to refactor initial solution code to loop throug
 Analysis was done to include the entire stock market over the last few years
 
 ### Results
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+
+#### Stock Performance
+The alternative energy stocks performed very differently from 2017 to 2018. A side-by-side analysis of each over the two years is displayed below:
 
 <p align="center">
   <b>Alternative Energy Stock Performance in 2017 and 2018</b>
@@ -20,7 +22,11 @@ Using images and examples of your code, compare the stock performance between 20
   <img width="400" height="402" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/All_Stocks_Performance_2018.png" title="2018 Stock Analysis">
 </p>
 
+As seen from the analysis, if Steve's parents only had access to the 2017 information prior to their decision to invest, DQ would make sense for a strong investment as it outperformed all other peers and had a return of 199.4%. In 2017, all stocks but one had a positive return and an average return of 67.3% whereas in 2018, only two stocks had a positive return with an average of -8.5%. Totaly daily volumes were very similar in both year with a total of 3.17 billion in 2017 and 3.31 in 2018.
 <br>
+
+#### Original vs Refactored Script Performance
+Original code was written to cycle through all of the rows of data for each respective stock ticker and returning those values before cycling to the next stock ticker. The code was then refactored to pull respective stock ticker data for each ticker with only one pass through the data. The efficiency gains from running the new refactored code vs the original for each year is shown below. Mousing-over each picture will indicate whether it is original or refactored.
 
 <p align="center">
   <b>Execution Time of Original & Refactored Script on 2017 Analysis</b>
@@ -36,6 +42,22 @@ Using images and examples of your code, compare the stock performance between 20
  <br>
   <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png" title="Original Script">
   <img width="300" height="150" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" title="Refactored Script">
+</p>
+
+The refactored code decreased the execution times of the 2017 and 2018 analysis by 83% and 84% respectively. As mentioned above, the original code cycles through each data set completely for one stock ticker before it loops back to gather data for the next stocks which from an operations standpoint would be considered an extremely high amount of "dead walking". Dead walking is when you have to go back to an area you already completed to accomplish another task that could have been done at the same time. The "dead walking" script is as follows:
+
+<p align="center">
+  <b>Original Script</b>
+ <br>
+  <img width="400" height="402" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/Original_Script.png" title="Original Script">
+</p>
+
+Refactoring the script allowed arrays to be setup for the data of interest so that after the starting price and ending price for a given stock ticker was cycled through the code, it would begin gathering data for the next one. Since the stock tickers are in alphabetical order, the code would only require one pass through each row in the dataset to gather all desired data. The refactored code that made this possible is below:
+
+<p align="center">
+  <b>Original Script</b>
+ <br>
+  <img width="400" height="402" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/Refactored_Script.png" title="Refactored Script">
 </p>
 
 ### Summary
