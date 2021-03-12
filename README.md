@@ -10,7 +10,7 @@ The purpose of this analysis is to refactor initial solution code to loop throug
 ## Results
 Analysis was done to include the entire stock market over the last few years
 
-#### Stock Performance
+### Stock Performance
 The alternative energy stocks performed very differently from 2017 to 2018. A side-by-side analysis of each over the two years is displayed below:
 
 <p align="center">
@@ -23,7 +23,7 @@ The alternative energy stocks performed very differently from 2017 to 2018. A si
 As seen from the analysis, if Steve's parents only had access to the 2017 information prior to their decision to invest, DQ would make sense for a strong investment as it outperformed all other peers and had a return of 199.4%. In 2017, all stocks but one had a positive return and an average return of 67.3% whereas in 2018, only two stocks had a positive return with an average of -8.5%. Totaly daily volumes were very similar in both year with a total of 3.17 billion in 2017 and 3.31 in 2018.
 <br>
 
-#### Original vs Refactored Script Performance
+### Original vs Refactored Script Performance
 Original code was written to cycle through all of the rows of data for each respective stock ticker and returning those values before cycling to the next stock ticker. The code was then refactored to pull respective stock ticker data for each ticker with only one pass through the data. The efficiency gains from running the new refactored code vs the original for each year is shown below. Mousing-over each picture will indicate whether it is original or refactored.
 
 <p align="center">
