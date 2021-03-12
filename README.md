@@ -8,7 +8,7 @@ Steve just graduated from college in finance and his parents are his first clien
 The purpose of this analysis is to refactor initial solution code to loop through all the data one time in order to collect the same information that was collected with the original code. Once refactored, a determination is made whether or not refactoring the code succesffully made the VBA scrip run faster. This written analysis explains the findings and results of stock performance from 2017 and 2018.
 
 ## Results
-Analysis was done to include the entire stock market over the last few years
+Analysis was completed to include entire stock market performance over the last few years.
 
 ### Stock Performance
 The alternative energy stocks performed very differently from 2017 to 2018. A side-by-side analysis of each over the two years is displayed below:
