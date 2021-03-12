@@ -7,10 +7,8 @@ Steve just graduated from college in finance and his parents are his first clien
 ### Purpose
 The purpose of this analysis is to refactor initial solution code to loop through all the data one time in order to collect the same information that was collected with the original code. Once refactored, a determination is made whether or not refactoring the code succesffully made the VBA scrip run faster. This written analysis explains the findings and results of stock performance from 2017 and 2018.
 
-## Results and Summary
+## Results
 Analysis was done to include the entire stock market over the last few years
-
-### Results
 
 #### Stock Performance
 The alternative energy stocks performed very differently from 2017 to 2018. A side-by-side analysis of each over the two years is displayed below:
@@ -60,7 +58,7 @@ Refactoring the script allowed arrays to be setup for the data of interest so th
   <img width="750" height="600" src="https://github.com/smyoung88/stock-analysis/blob/main/Resources/Refactored_Script.png" title="Refactored Script">
 </p>
 
-### Summary
+## Summary
 
 **What are the advantages or disadvantages of refactoring code?**
 
